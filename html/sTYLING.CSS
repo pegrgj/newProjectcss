@@ -1,0 +1,23 @@
+.all
+{
+display: grid;
+/* grid-template-columns: repeat(2,1fr);
+
+gap: 1000px; */
+
+}
+.HI
+{
+    float: right;
+    position: relative;
+
+}
+.H
+{
+    float: left;
+    position: absolute;
+    right: 520px;
+}
+@media 
+    
+}

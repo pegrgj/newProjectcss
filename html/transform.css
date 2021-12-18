@@ -1,0 +1,23 @@
+.box
+{
+    width: 550px;
+    height: 130px;
+    background-color: chartreuse;
+ 
+}
+@keyframes pop
+{
+    
+}
+body
+{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    text
+    text-align: center;
+    
+    height: 100vh;
+    
+}
+
